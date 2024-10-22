@@ -2,7 +2,7 @@
 
 function App() {
   return (
-   <h1>Shailendra verma</h1>
+   <h1>Shailendra verma | how to delete unuse properties</h1>
   );
 }
 
